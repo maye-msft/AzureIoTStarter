@@ -1,0 +1,4 @@
+[submodule "AzureProvisionPSM"]
+	path = AzureProvisionPSM
+	url = https://github.com/maye-msft/AzureProvisionPSM
+	branch = master
